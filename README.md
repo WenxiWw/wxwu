@@ -1,4 +1,4 @@
-<meta http-equiv="refresh" content="0; url='https://opprDev.github.io/academic-responsive-template/src/index.html'" />
+<meta http-equiv="refresh" content="0; url='https://wenxiww.github.io/wxwu/src/index.html'" />
 
 # Academic Responsive Template
 
