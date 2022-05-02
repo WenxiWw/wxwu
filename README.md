@@ -1,6 +1,6 @@
 <meta http-equiv="refresh" content="0; url='https://wenxiww.github.io/wxwu/src/index.html'" />
 
-# Academic Responsive Template
+# Homepage - Wenxi Wu
 
 
 
